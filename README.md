@@ -1,6 +1,6 @@
-# Chess Master - Real-time Multiplayer Chess Game
+# Chess Master 
 
-A fully functional real-time multiplayer chess game built with Node.js, Express, Socket.IO, and Chess.js.
+A chess game built with Node.js, Express, Socket.IO, and Chess.js.
 
 ## Technical Architecture
 
